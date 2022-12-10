@@ -1,0 +1,52 @@
+Name: Henry Lo, Pin Yi Yeh 
+Class: EE 104
+
+First Video Link: https://youtu.be/Xjl8DmecItU
+Second Video Link: https://www.youtube.com/watch?v=AvcHf69TSyU
+GitHub Link: https://github.com/henry91513/EE-104-Lab-8-Files
+
+# YoLo Model Creation
+	Through this section, we are required to use yolo model image identification training to 
+identify the images and categorize them into different classifications. We are also required to 
+create new classifications including a non-train object and two teammates. Through the increasing
+numbers of the echo, the Yolo model's accuracy will generally increase allowing it to identify 
+objects and persons. Yet, even with finished training, sometimes unpredictable errors still
+occur during the identification  
+
+
+# Dacing Game Development 
+To make sure you can play this game without any problem, please ensure all the pictures are in 
+the image file, and all the mp3 files are in a music file. Remember to put dance.py, images, 
+and music in the same place. This game is a two-player game. The first player uses the up, down, 
+left, and right keys to dance. Player two use W, A, S, and D key to dance. After the countdown, 
+the program will list a random dance move you must follow, follow the dance move by pressing the 
+right key to win the score and beat your friends on this optimate dancing battle.
+
+	
+ 
+*** These are the python modules that should be installed ***
+# YoLo Model Creation
+import os
+import glob as glob
+import matplotlib.pyplot as plt
+import cv2
+import requests
+
+#Dacing Game 
+import pgzrun
+import pygame
+import pgzero
+import random
+from pgzero.builtins import Actor
+from random import randint
+
+
+
+ 
+
+
+
+
+
+ 
+             
